@@ -3,7 +3,7 @@
   "version": "0.0.1-alpha",
   "description": "Personal POC validating the verifiable publish pipeline (GitHub Action + npm provenance + scan) ahead of the official n8n-nodes-agentova package.",
   "license": "MIT",
-  "publishConfig": { "access": "public" },
+  "publishConfig": { "access": "public", "tag": "alpha" },
   "homepage": "https://github.com/nantenaina-ramaroharisoa-collab/n8n-nodes-agentova-poc",
   "keywords": ["n8n-community-node-package"],
   "author": { "name": "Mendrika10", "email": "nataramaroarisoa@gmail.com" },
