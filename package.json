@@ -1,6 +1,6 @@
 {
   "name": "n8n-nodes-agentova-poc",
-  "version": "0.1.0",
+  "version": "0.0.1-alpha",
   "description": "Personal POC validating the verifiable publish pipeline (GitHub Action + npm provenance + scan) ahead of the official n8n-nodes-agentova package.",
   "license": "MIT",
   "publishConfig": { "access": "public" },
